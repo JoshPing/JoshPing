@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @JoshPing
-- 👀 I’m interested in AI, healthcare, design
+- 👋 Hi, I’m @Emily Zhao
+- 👀 I’m interested in AI, healthcare, design, python, analysis and magic
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Healthcare
+- 💞️ I’m looking to collaborate on Healthcare, AI, UX
 - 📫 How to reach me zspwss@gmail.com
-- 😄 Pronouns: LOVE
-- ⚡ Fun fact: Sleep
+- 😄 Pronouns: Her/She
+- ⚡ Fun fact: I had one corgi and a greyhound
 
 <!---
 JoshPing/JoshPing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
